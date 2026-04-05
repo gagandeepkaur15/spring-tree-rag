@@ -1,0 +1,13 @@
+com/example/tree/retriever/indexing/BaselinePipelinesTest.class
+com/example/tree/retriever/api/TreeDocumentRetrieverTest$StubStore.class
+com/example/tree/retriever/indexing/summarization/ChatClientSummarizationEngineTest.class
+com/example/tree/retriever/indexing/OverlappingTextChunkerTest.class
+com/example/tree/retriever/core/CoreRecordsTest.class
+com/example/tree/retriever/traversal/IterativeDfsTraversalEngineTest.class
+com/example/tree/retriever/indexing/SpringAiDocumentParserTest.class
+com/example/tree/retriever/api/TreeDocumentRetrieverTest.class
+com/example/tree/retriever/traversal/TraversalDecisionTextParserTest.class
+com/example/tree/retriever/spring/TreeRetrieverAutoConfigurationTest.class
+com/example/tree/retriever/store/InMemorySnapshotStoreTest.class
+com/example/tree/retriever/spring/TreeRetrieverAutoConfigurationTest$ChatClientConfig.class
+com/example/tree/retriever/integration/RealLlmIntegrationIT.class
