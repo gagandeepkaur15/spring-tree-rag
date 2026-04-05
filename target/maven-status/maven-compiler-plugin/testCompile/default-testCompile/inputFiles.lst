@@ -1,0 +1,11 @@
+/Users/gagandeepkaur/Documents/spring-tree-rag/spring-tree-rag/src/test/java/com/example/tree/retriever/api/TreeDocumentRetrieverTest.java
+/Users/gagandeepkaur/Documents/spring-tree-rag/spring-tree-rag/src/test/java/com/example/tree/retriever/core/CoreRecordsTest.java
+/Users/gagandeepkaur/Documents/spring-tree-rag/spring-tree-rag/src/test/java/com/example/tree/retriever/indexing/BaselinePipelinesTest.java
+/Users/gagandeepkaur/Documents/spring-tree-rag/spring-tree-rag/src/test/java/com/example/tree/retriever/indexing/OverlappingTextChunkerTest.java
+/Users/gagandeepkaur/Documents/spring-tree-rag/spring-tree-rag/src/test/java/com/example/tree/retriever/indexing/SpringAiDocumentParserTest.java
+/Users/gagandeepkaur/Documents/spring-tree-rag/spring-tree-rag/src/test/java/com/example/tree/retriever/indexing/summarization/ChatClientSummarizationEngineTest.java
+/Users/gagandeepkaur/Documents/spring-tree-rag/spring-tree-rag/src/test/java/com/example/tree/retriever/integration/RealLlmIntegrationIT.java
+/Users/gagandeepkaur/Documents/spring-tree-rag/spring-tree-rag/src/test/java/com/example/tree/retriever/spring/TreeRetrieverAutoConfigurationTest.java
+/Users/gagandeepkaur/Documents/spring-tree-rag/spring-tree-rag/src/test/java/com/example/tree/retriever/store/InMemorySnapshotStoreTest.java
+/Users/gagandeepkaur/Documents/spring-tree-rag/spring-tree-rag/src/test/java/com/example/tree/retriever/traversal/IterativeDfsTraversalEngineTest.java
+/Users/gagandeepkaur/Documents/spring-tree-rag/spring-tree-rag/src/test/java/com/example/tree/retriever/traversal/TraversalDecisionTextParserTest.java
