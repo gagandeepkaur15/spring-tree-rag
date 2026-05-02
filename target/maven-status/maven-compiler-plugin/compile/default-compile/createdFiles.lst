@@ -16,6 +16,7 @@ com/example/tree/retriever/indexing/SpringAiDocumentParser.class
 com/example/tree/retriever/indexing/MarkdownDocumentParser.class
 com/example/tree/retriever/indexing/summarization/ChatClientSummarizationEngine$ModelSummary.class
 com/example/tree/retriever/api/TreeStore.class
+META-INF/spring-configuration-metadata.json
 com/example/tree/retriever/api/TreeDocumentRetriever.class
 com/example/tree/retriever/core/StoreSnapshot.class
 com/example/tree/retriever/core/DocumentTreeNode.class
